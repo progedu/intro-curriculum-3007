@@ -1,0 +1,11 @@
+{
+  "name": "seventeen",
+  "version": "1.0.0",
+  "description": "17の倍数であるかを判定する関数selectを提供する",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
