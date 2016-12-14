@@ -1,16 +1,11 @@
 'use strict';
 
 /**
- * 与えられた数字が17で割り切れるかどうか判定する
- * @param {number} number
- * @return {number} number
- */
+* 17の倍数である場合 true を返す
+* @param {number} num
+*/
 function isSeventeen(number) {
-  if (number % 17 === 0) {
-    return number;
-  } else {
-    return;
-  }
+  return num % 17 === 0;
 }
 
 module.exports = {
