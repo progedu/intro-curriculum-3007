@@ -4,7 +4,7 @@
 * 17の倍数である場合 true を返す
 * @param {number} num
 */
-function isSeventeen(number) {
+function isSeventeen(num) {
   return num % 17 === 0;
 }
 
