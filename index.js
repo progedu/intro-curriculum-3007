@@ -2,7 +2,7 @@
 
 /**
  * 整数が 17 で割り切れるかどうか
- * @param {int} n
+ * @param {number} n
  */
 function isSeventeen(n) {
     return n % 17 === 0;
