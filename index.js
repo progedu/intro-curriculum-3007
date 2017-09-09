@@ -1,4 +1,10 @@
 'use strict';
 
-module.exports = {
+
+function isSeventeen(number) {
+    return  number % 17 === 0;
 }
+
+module.exports = {
+     isSeventeen:  isSeventeen
+};
