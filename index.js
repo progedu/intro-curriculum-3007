@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * 17で割り切れたら整数を返す
+ * 17で割り切れるか評価する
  * @param {int} num
  * @return {boolean}
  */
