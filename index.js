@@ -2,8 +2,7 @@
 
 /**
  * 整数が17で割り切れるかどうかを判定
- * @param {array} numbers
- * @return {boolean} 
+ * @param {array} value
  */
 function isMultipleOfSeventeen (value) {
     return value % 17 === 0;
