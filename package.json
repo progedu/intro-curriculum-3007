@@ -7,5 +7,13 @@
     "test": "node test.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hnsky/intro-curriculum-3007.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hnsky/intro-curriculum-3007/issues"
+  },
+  "homepage": "https://github.com/hnsky/intro-curriculum-3007#readme"
 }
