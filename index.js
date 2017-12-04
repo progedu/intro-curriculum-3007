@@ -2,14 +2,11 @@
 
 /**
  * 整数が17で割り切れるかどうかを判定する
- * @param {int} number
+ * @param {number} num
  * @return {boolean}
  */
-function isMultipleOfSeventeen(number) {
-    if (number % 17 == 0) {
-        return true;
-    }
-    return false;
+function isMultipleOfSeventeen(num) {
+    return num % 17 === 0;
 }
 
 module.exports = {
