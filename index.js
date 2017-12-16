@@ -7,12 +7,7 @@
  */
 
 function isMultipleOfSeventeen(n){
-    if (n % 17 === 0) {
-        return true;
-    }
-    else {
-        return false;
-    }
+    return n % 17 === 0
 }
 
 module.exports = {
