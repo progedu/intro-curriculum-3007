@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * 配列に含まれる整数が17で割り切れるかを判定する
+ * 17の倍数である場合 trueを返す
  * @param {number} num 
  */
 function isMultipleOfSeventeen(num) {
