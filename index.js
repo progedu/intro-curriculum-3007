@@ -3,7 +3,7 @@
 /**
 * 整数が 17 で割り切れるかどうか を返す
 * @param {number} num
-* @return {boolean} 完了したかどうか
+* @return {boolean} 17 で割り切れるかどうか
 */
 function isMultipleOfSeventeen(num) {
     return num % 17 === 0;
