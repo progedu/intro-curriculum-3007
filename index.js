@@ -1,4 +1,4 @@
 'use strict';
 
-module.exports = {
-}
+
+module.exports.isMultipleOfSeventeen = num => num % 17 === 0
