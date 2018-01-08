@@ -3,10 +3,10 @@
 /**
 * 17の倍数である場合 true を返す
 */
-function isModulusOfSeventeen(num) {
+function isMultipleOfSeventeen(num) {
   return num % 17 === 0;
 }
 
 module.exports = {
-  isModulusOfSeventeen: isModulusOfSeventeen
+  isMultipleOfSeventeen: isMultipleOfSeventeen
 };
