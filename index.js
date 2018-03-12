@@ -1,12 +1,14 @@
 'use strict';
-const seventeen = new Map();
+/**
+ *17の倍数である場合 true　を返す
+ @param {number} num 
+ */
 
-function isMultipleSeventeen(numbers) {
-     number = numbers % 17 === 0;
-     rerurn seventeen.set(number);
+function isMultipleOfSeventeen(num) {
+     return num % 17 === 0;
 }
 
 
 module.exports = {
-    isMultipleSeventeen: isMultipleSeventeen
+    isMultipleOfSeventeen: isMultipleOfSeventeen
 }
