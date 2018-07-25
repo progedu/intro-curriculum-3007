@@ -1,4 +1,12 @@
 'use strict';
+/**
+ * 17の倍数だけtrueを返す
+ * @param {number} num
+ */
 
-module.exports = {
+function isMultipleOfSeventeen(num){
+   return num % 17 === 0;
+}
+ module.exports = {
+   isMultipleOfSeventeen : isMultipleOfSeventeen
 }
