@@ -1,9 +1,7 @@
 'use strict';
 
-
 function isMultipleOfSeventeen(nums){
-  return nums %17 === 0 ;
-
+  return nums%17 ===0;
 }
 
 module.exports = {
