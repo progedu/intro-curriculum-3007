@@ -1,4 +1,7 @@
 'use strict';
 
-module.exports = {
+function isMultipleOfSeventeen(i){
+    return i % 17 === 0;
 }
+
+module.exports = {isMultipleOfSeventeen}
