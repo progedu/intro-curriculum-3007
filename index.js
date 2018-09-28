@@ -6,7 +6,7 @@
  * @return {boolean} 17 で割り切れるかどうか
  */
 function isMultipleOfSeventeen(num) {
-    return num % 17 == 0 ? true : false;
+    return num % 17 == 0;
 }
 
 module.exports = {
