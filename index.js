@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * 17の倍数である場合にtrueを返す ≡ 0 (mod17)
+ * 17の倍数である場合にtrueを返す
  * @param {number} num
  * @return {boolean} 
  */
