@@ -1,4 +1,11 @@
 'use strict';
 
-module.exports = {
+//const seventeen = new Map();
+
+function isMultipleOfSeventeen(seventeen) {
+    return seventeen % 17 === 0;
 }
+
+module.exports = {
+    isMultipleOfSeventeen: isMultipleOfSeventeen
+};
