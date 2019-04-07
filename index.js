@@ -1,10 +1,11 @@
 'use strict';
 
 /**
- * 配列に含まれる整数を１７で割り切れるかどうか判定する
+ * 配列に含まれる整数が１７で割り切れるかどうか判定する
+ * @param {number} number
  */
-function isMultipleOfSeventeen(number) {
-    return (number % 17) === 0
+function isMultipleOfSeventeen(num) {
+    return (num % 17) === 0
 }
 module.exports = {
     isMultipleOfSeventeen
