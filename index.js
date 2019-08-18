@@ -2,7 +2,7 @@
 
 /**
 * 17で割り切れるかを判定する
-* @param {array} numeric_arr
+* @param {number} numeric
 */
 function isMultipleOfSeventeen(numeric) {
     return numeric % 17 === 0;
