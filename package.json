@@ -6,6 +6,7 @@
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Haruna Karasawa <haruna_karasawa@nnn.ac.jp>",
+  "license": "ISC",
+  "repository": "git@github.com:karahal/intro-curriculum-3007.git"
 }
