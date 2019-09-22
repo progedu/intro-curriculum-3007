@@ -1,4 +1,7 @@
 'use strict';
+function isMultipleOfSeventeen(a) {
+  return a.filter(a 
 
-module.exports = {
+
+module.exports = { isMultipleOfSeventeen
 }
