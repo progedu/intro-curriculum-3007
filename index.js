@@ -1,4 +1,11 @@
 'use strict';
+/**
+ * 配列を取得する
+ * @param {number} num
+ */
 
-module.exports = {
+ function isMultipleOfSeventeen (num){
+   return num%17 === 0;
+ }
+module.exports = { isMultipleOfSeventeen
 }
