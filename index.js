@@ -7,7 +7,7 @@
 * @return {boolean} 割り切れるかどうか
 */
 function isMultipleOfAny(valA, valB) {
-    return (valA % valB) == 0;
+    return valA % valB === 0;
 }
 
 /**
