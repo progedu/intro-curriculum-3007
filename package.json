@@ -6,6 +6,7 @@
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "shota <atau0435@gmail.com>",
+  "license": "ISC",
+  "repository": "git@github.com:shimshimshim/intro-curriculum-3007.git"
 }
