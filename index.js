@@ -7,4 +7,4 @@ function isMultipleOfSeventeen (n) {
 
 module.exports = {
     isMultipleOfSeventeen
-}
+};
