@@ -6,6 +6,7 @@
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Yuki Sato <piyomatu81108@gmail.com>",
+  "license": "ISC",
+  "repository": "git@github.com:piyomatu/intro-curriculum-3007.git"
 }
