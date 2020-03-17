@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * 配列を17で割り切れる数のみの配列にする
+ * 整数を17で割り切れるかどうかを判定する
  * @param {number} integralValue
  * @return {boolean} 17で割り切れるかどうか
  */
