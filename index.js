@@ -1,4 +1,10 @@
 'use strict';
 
-module.exports = {
+{
+  const isMultipleOfSeventeen = waru => {
+    return waru % 17 === 0;
+  }
+  module.exports = {
+    isMultipleOfSeventeen
+  }
 }
