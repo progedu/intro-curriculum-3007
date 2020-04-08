@@ -1,4 +1,3 @@
 'use strict';
 
-module.exports = {
-}
+module.exports = { isMultipleOfSeventeen: n => !(n % 17) };
