@@ -6,6 +6,7 @@
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Aozora Okada <bluesky125osmkk@gmail.com>",
+  "license": "ISC",
+  "repository": "git@github.com:paoscience/intro-curriculum-3007.git"
 }
