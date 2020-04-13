@@ -6,6 +6,7 @@
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "mamizu <lifespring.123452@gmail.com>",
+  "license": "ISC",
+  "repository": "git@github.com:mamizu2020/intro-curriculum-3007.git"
 }
