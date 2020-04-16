@@ -6,6 +6,7 @@
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Sumi Suguru <sumi.suguru.723@gmail.com>",
+  "license": "ISC",
+  "repository": "git@github.com:sumisuguru/intro-curriculum-3007.git"
 }
