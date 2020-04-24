@@ -6,6 +6,7 @@
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "yuma <t.yuma2618@gmail.com>",
+  "license": "ISC",
+  "repository": "git@github.com:yuma2000/intro-curriculum-3007"
 }
