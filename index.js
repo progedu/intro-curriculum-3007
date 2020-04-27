@@ -1,6 +1,5 @@
 'use strict';
 
-let isMultipleOfSeventeen = (n) => {
-    return n % 17 === 0;
-}
+let isMultipleOfSeventeen = n => n % 17 === 0; 
+
 module.exports = { isMultipleOfSeventeen }
