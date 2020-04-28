@@ -1,5 +1,4 @@
 'use strict';
-const number = new Map();
 
 /**
  * 17の倍数の時trueを返す
