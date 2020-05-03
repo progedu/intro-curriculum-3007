@@ -6,6 +6,7 @@
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "punicochan <mkanzaki53@gmail.com>",
+  "license": "ISC",
+  "repository": "git@github.com:punicochan/intro-curriculum-3007"
 }
