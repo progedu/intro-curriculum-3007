@@ -6,6 +6,7 @@
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Takanori Washiro <takanori.washiro@enfc.jp>",
+  "license": "ISC",
+  "repository": "git@github.com:eNFC-a1/intro-curriculum-3007.git"
 }
