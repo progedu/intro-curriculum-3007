@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * 整数が17で割り切れるかどうかを判定する
+ * 整数が17で割り切れるかどうかを判定するわよ
  * @param {int} num
  */
 function isMultipleOfSeventeen( num){
