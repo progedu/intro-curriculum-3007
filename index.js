@@ -1,4 +1,6 @@
 'use strict';
 
-module.exports = {
+const isMultipleOfSeventeen = ( a  => a  % 17 === 0 );
+
+module.exports = { isMultipleOfSeventeen
 }
