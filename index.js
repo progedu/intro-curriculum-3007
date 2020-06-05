@@ -1,8 +1,6 @@
 'use strict';
-//Create
-
-function isMultipleOfSeventeen(seventeen){
-  return (seventeen % 17) === 0;
+function isMultipleOfSeventeen(num){
+  return num % 17 === 0;
 }
 module.exports = {
   isMultipleOfSeventeen
