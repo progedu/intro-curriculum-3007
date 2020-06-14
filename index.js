@@ -9,10 +9,10 @@ function isMultipleOfSeventeen(number) {
     let numbers = [];
     if(number % 17 === 0) {
         numbers.push(number);
+        return numbers;
     }
-    return numbers;
 }
 
 module.exports = {
-    seventeen: isMultipleOfSeventeen
+    isMultipleOfSeventeen
 }
