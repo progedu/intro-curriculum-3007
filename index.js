@@ -1,13 +1,15 @@
 'use strict';
-const numbers = new Array();
 
-function addNumbers(a) {
-  numbers.push({ value: a});
+/**
+ * 17の倍数である場合 true を返す
+ * @param {number} num
+ */
+function isMultipleOfSeventeen(num) {
+  return num % 17 === 0;
 }
 
-function isMultipleOfSeventeen(numbers) {
-  
-}
+
 
 module.exports = {
-}
+  isMultipleOfSeventeen
+};
