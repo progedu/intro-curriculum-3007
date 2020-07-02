@@ -6,6 +6,7 @@
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Haruka Iba <office.oneshot.harry@gmail.com>",
+  "license": "ISC",
+  "repository": "git@github.com:kohki-021/intro-curriculum-3007.git"
 }
