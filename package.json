@@ -6,6 +6,5 @@
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
