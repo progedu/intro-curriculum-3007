@@ -6,6 +6,7 @@
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Kobayashi Tomoya <tomocha.marika@gmail.com>",
+  "license": "ISC",
+  "repository": "https://github.com/3tomcha/intro-curriculum-3007.git"
 }
