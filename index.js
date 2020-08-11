@@ -2,8 +2,7 @@
 
 /***
  * 17で割り切れる場合Trueを返す。
- * @param {Array} 
- * @return 
+ * @param {number} num 
  */
 function isMultipleOfSeventeen(num) {
     return (num % 17 === 0);
