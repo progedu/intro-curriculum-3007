@@ -6,6 +6,7 @@
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Kiyoto Akazawa <kiyoto.a328@docomo.ne.jp>",
+  "license": "ISC",
+  "repository": "git@github.com:akakiyo/intro-curriculum-3007"
 }
