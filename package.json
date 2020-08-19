@@ -6,6 +6,7 @@
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "jitian <mykysd0826@gmail.com>",
+  "license": "ISC",
+  "repository": "git@github.com:jitian-queer/intro-curriculum-3007"
 }
