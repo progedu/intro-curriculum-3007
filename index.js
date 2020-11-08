@@ -1,4 +1,13 @@
 'use strict';
+const nums = [];
 
-module.exports = {
+/**
+ * 17で割り切れるかどうかを判定する
+ * @param {int} num
+ */
+function isMultipleOfSeventeen(num) {
+    return num % 17 === 0;
 }
+module.exports = {
+    isMultipleOfSeventeen
+};
