@@ -6,6 +6,7 @@
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Kamonabe <ryo79158420k@icloud.com>",
+  "license": "ISC",
+  "repository": "https://github.com/Kamonabee/intro-curriculum-3007"
 }
