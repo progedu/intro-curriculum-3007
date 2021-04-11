@@ -2,7 +2,7 @@
 
 /**
  * 17で割り切れるかどうか
- * @return {number} n
+ * @param {number} n
  */
 function isMultipleOfSeventeen(n) {
     return n % 17 === 0;
