@@ -1,4 +1,13 @@
 'use strict';
 
-module.exports = {
+/**
+ * 17で割り切れるかどうか
+ * @param {number} n
+ */
+function isMultipleOfSeventeen(n) {
+    return n % 17 === 0;
 }
+
+module.exports = {
+    isMultipleOfSeventeen
+};
